@@ -1,0 +1,1 @@
+Explicacion de sistemas operativos de linux Linux es un sistema operativo completamente libre y por lo tanto, gratuito. Un producto que a diferencia de Windows o macOS no es propiedad de una compañía, de ahí su gratuidad, sino de un gran número de compañías o personas que contribuyen con su desarrollo y van creando sus propias distribuciones Linux.

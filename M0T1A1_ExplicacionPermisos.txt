@@ -1,0 +1,4 @@
+Permisos de lectura. Los permisos de lectura son 3 los cuales estan indicados por sus iniciales en ingles las cuals son r de read la cuel es lectura w de write Escritura y la X executeve ejecutable la cual nos indica que podemos abrir el archivo o directorio en cuando al orden en el que aparecen estas es el ya mencionado pero se repite x 3 lo cual es lo siguiente Usuarios y Grupos. en el sofwere de linux nos aparece esta repeticion de 3 al principio de un directorio o un archivo seguido de la fecha de modificacion despues el usuario y consiguientemente el grupo al ultimo encontramos el nombre de este seguido si lo tiene su extencion las de 3 (rwx) se van ordenando de la misma forma Ejemplo -wx rwx rwx 12/1212:12 Prueba
+>      aqui encontramos el tipo de archivo
+         aqui los permisos que tiene el propietario
+             aqui es los permisos que tiene el grupo al que pertenece el usuario.
